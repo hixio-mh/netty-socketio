@@ -90,7 +90,7 @@
   <dependency>
   	<groupId>io.netty</groupId>
   	<artifactId>netty-common</artifactId>
-  	<version>4.1.50.Final</version>
+  	<version>4.1.69.Final</version>
   </dependency>
   <dependency>
   	<groupId>io.netty</groupId>
